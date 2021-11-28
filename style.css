@@ -70,7 +70,7 @@
   @media screen and (max-width: 768px) {
     .fuji {
         width: auto;
-        margin: 10px auto;
+        margin: 30px auto;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -79,13 +79,11 @@
       .step-box {
         width: 90%;
         padding: 10px;
+        margin: 20px;
         position: relative;
         background-color: #eee;
       }
-      
-      .step-box:last-child {
-        margin-right: 0;
-      }
+
       
       .step-img1 {
         height: 150px;
@@ -126,7 +124,7 @@
   @media screen and (max-width: 425px) {
     .fuji {
         width: auto;
-        margin: 10px auto;
+        margin: 30px auto;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -135,14 +133,11 @@
       .step-box {
         width: 90%;
         padding: 10px;
+        margin: 20px;
         position: relative;
         background-color: #eee;
       }
-      
-      .step-box:last-child {
-        margin-right: 0;
-      }
-      
+
       .step-img1 {
         height: 150px;
         background-image: url(img/flow01.png);
