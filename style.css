@@ -70,7 +70,7 @@
   @media screen and (max-width: 768px) {
     .fuji {
         width: auto;
-        margin: 30px auto;
+        margin: 40px auto;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -79,7 +79,7 @@
       .step-box {
         width: 90%;
         padding: 10px;
-        margin: 20px 0px;
+        margin: 10px 0px;
         position: relative;
         background-color: #eee;
       }
@@ -124,7 +124,7 @@
   @media screen and (max-width: 425px) {
     .fuji {
         width: auto;
-        margin: 30px auto;
+        margin: 40px auto;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -133,7 +133,7 @@
       .step-box {
         width: 90%;
         padding: 10px;
-        margin: 20px 0px;
+        margin: 10px 0px;
         position: relative;
         background-color: #eee;
       }
